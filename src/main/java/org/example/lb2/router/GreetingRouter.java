@@ -1,4 +1,4 @@
-package org.example.lb2.handler;
+package org.example.lb2.router;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
